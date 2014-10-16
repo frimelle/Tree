@@ -2,7 +2,9 @@ Tree
 ====
 
 simple version of tree-of-life (https://github.com/frimelle/tree-of-life)
+
 Needs on of the dumps from wikidata (https://dumps.wikimedia.org/other/wikidata/)
+
 Right now it's using 20140922.json.gz
 
 Creates a Python tree using data from wikidata (wikidata.org) and creates two files:
